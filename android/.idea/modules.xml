@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AwesomeProject.iml" filepath="$PROJECT_DIR$/AwesomeProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-openalpr/android/libraries/openalpr/openalpr.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-openalpr/android/libraries/openalpr/openalpr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-openalpr/android/libraries/opencv/opencv.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-openalpr/android/libraries/opencv/opencv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-openalpr/android/react-native-openalpr.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-openalpr/android/react-native-openalpr.iml" />
+    </modules>
+  </component>
+</project>
